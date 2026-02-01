@@ -3,4 +3,4 @@ services:
     name: multi-downloader
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: python main.py
+    startCommand: python bot.py
